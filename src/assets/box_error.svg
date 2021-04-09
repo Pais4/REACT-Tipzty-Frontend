@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.419" height="21.497" viewBox="0 0 21.419 21.497">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Icon-Message-Square" d="M.9,18a.878.878,0,0,1-.344-.068A.9.9,0,0,1,0,17.1V2.7A2.7,2.7,0,0,1,2.7,0H15.3A2.7,2.7,0,0,1,18,2.7v9a2.7,2.7,0,0,1-2.7,2.7H4.873L1.537,17.737A.9.9,0,0,1,.9,18ZM2.7,1.8a.9.9,0,0,0-.9.9V14.928l2.064-2.064A.891.891,0,0,1,4.5,12.6H15.3a.9.9,0,0,0,.9-.9v-9a.9.9,0,0,0-.9-.9Z" transform="translate(-0.142 -0.171)" fill="#3e3e3e"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_38602" data-name="Grupo 38602" transform="translate(0 0.078)">
+    <path id="Trazado_54024" data-name="Trazado 54024" d="M0,0H21.419V21.419H0Z" fill="none"/>
+    <g id="Grupo_38601" data-name="Grupo 38601" transform="translate(0 -0.078)">
+      <path id="Trazado_54025" data-name="Trazado 54025" d="M0,0H21.419V21.419H0Z" fill="none"/>
+      <g id="return" transform="translate(1 1.43)">
+        <g id="Grupo_38600" data-name="Grupo 38600">
+          <g id="Grupo_38599" data-name="Grupo 38599">
+            <path id="Trazado_54026" data-name="Trazado 54026" d="M18.443,0H.557A.543.543,0,0,0,0,.527V17.473A.543.543,0,0,0,.557,18H18.443A.543.543,0,0,0,19,17.473V.527A.543.543,0,0,0,18.443,0ZM8.268,1.055h2.464V4.519H8.268V1.055Zm9.619,15.891H1.113V1.055H7.155V5.046a.543.543,0,0,0,.557.527h3.577a.543.543,0,0,0,.557-.527V1.055h6.041Z"/>
+          </g>
+        </g>
+      </g>
+      <path id="ic_close_24px" d="M10.642,5.568,10.074,5,7.821,7.253,5.568,5,5,5.568,7.253,7.821,5,10.074l.568.568L7.821,8.389l2.253,2.253.568-.568L8.389,7.821Z" transform="translate(2.679 4.679)"/>
+    </g>
+  </g>
+</svg>

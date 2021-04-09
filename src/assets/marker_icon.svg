@@ -1,0 +1,12 @@
+<svg id="pin" xmlns="http://www.w3.org/2000/svg" width="15.47" height="21.419" viewBox="0 0 15.47 21.419">
+  <g id="Grupo_8412" data-name="Grupo 8412" transform="translate(0)">
+    <g id="Grupo_8411" data-name="Grupo 8411">
+      <path id="Trazado_6006" data-name="Trazado 6006" d="M83.735,0A7.643,7.643,0,0,0,76,7.53a7.367,7.367,0,0,0,1.155,3.96l6.14,9.633a.649.649,0,0,0,.548.3h.005a.648.648,0,0,0,.548-.305l5.983-9.726A7.371,7.371,0,0,0,91.47,7.53,7.643,7.643,0,0,0,83.735,0Zm5.538,10.744-5.44,8.843L78.25,10.829a6.145,6.145,0,0,1-.97-3.3,6.454,6.454,0,0,1,12.9,0A6.145,6.145,0,0,1,89.272,10.744Z" transform="translate(-76)" fill="#3e3e3e"/>
+    </g>
+  </g>
+  <g id="Grupo_8414" data-name="Grupo 8414" transform="translate(3.776 3.66)">
+    <g id="Grupo_8413" data-name="Grupo 8413" transform="translate(0)">
+      <path id="Trazado_6007" data-name="Trazado 6007" d="M169.959,90a3.959,3.959,0,1,0,3.959,3.959A3.964,3.964,0,0,0,169.959,90Zm0,6.607a2.648,2.648,0,1,1,2.644-2.648A2.65,2.65,0,0,1,169.959,96.607Z" transform="translate(-166 -90)" fill="#3e3e3e"/>
+    </g>
+  </g>
+</svg>
