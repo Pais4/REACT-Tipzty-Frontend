@@ -51,7 +51,9 @@ const Main = () => {
                     </ButtonsContainer>
                 </ProfileInfoContainer>
             </ProfileContainer>
-            <Menu />
+            <MenuContainer>
+                <Menu />
+            </MenuContainer>
         </Container>
     )
 }
@@ -121,6 +123,10 @@ const NameContainer = styled.div`
 
 const VerifiedContainer = styled.div`
     align-self:flex-start;
+`;
+
+const MenuContainer = styled.div`
+    background: #FFF;
 `;
 
 const AccountInfo = styled.div`

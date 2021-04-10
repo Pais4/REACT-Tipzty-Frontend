@@ -3,12 +3,12 @@ import styled from 'styled-components'
 
 import VerifiedIcon from '../assets/brand_verify_icon.svg';
 
-const Creators = ({user}) => {
+const Creators = ({user, margin}) => {
 
     console.log(user);
 
     return (
-        <Container>
+        <Container margin={margin}>
             <ImgContainer>
                 <ImgProfile src={user.imgUrl}/>
             </ImgContainer>
@@ -23,7 +23,7 @@ const Creators = ({user}) => {
 
 const Container = styled.div`
     display: flex;
-    margin: 1.2em 0;
+    margin: ${props => props.margin ? '0' : '1.2em 0'};
 `;
 
 const ImgContainer = styled.div`
