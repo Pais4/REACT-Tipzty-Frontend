@@ -38,13 +38,9 @@ const Container = styled.div`
     justify-content: space-between;
     padding: 10px 15px;
     align-items: center;
-    
 `;
 
 const Profile = styled.div`
-    /* display: flex;
-    align-items: center;
-    justify-content: space-between; */
 `;
 
 const FollowingButton = styled.button`
